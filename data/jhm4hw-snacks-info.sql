@@ -1,6 +1,7 @@
+DROP DATABASE IF EXISTS jhm4hw;
 CREATE DATABASE jhm4hw;
-
 USE jhm4hw;
+
 CREATE TABLE `snacks` (
   `ID` int(11) NOT NULL,
   `Category` varchar(100) DEFAULT NULL,
