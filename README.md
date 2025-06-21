@@ -1,6 +1,7 @@
 # jhm4homework
 # 1.data
-'''-Excel:
+'''bash
+-Excel:
   樞紐分析表
 -SQL:
   (1)snacks-info
